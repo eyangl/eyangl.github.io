@@ -25,7 +25,8 @@ Work Experience
 **AI Software Engineer (Intern)**, Shanghai Huawei Technologies <span style="float:right;">Summer 2024</span>  
   * Wrote over 12,000 lines of Go language test code for the AI management platform, achieving 80% statement coverage  
   * Managed multiple code merges into the master branch after successful pipeline checks  
-  * Revised online help documentation to align with updates to platform operation procedures  
+  * Revised online help documentation to align with updates to platform operation procedures
+
 **Automation Engineer (Intern)**, Zhejiang Guozi Robotics <span style="float:right;">Summer 2023</span>  
   * Designed and analyzed upper-level storage and lifting components for a logistical cargo carrier using SolidWorks and AutoCAD  
   * Presented control system architecture and potential exception scenarios in interdisciplinary team meetings  
