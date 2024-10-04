@@ -18,7 +18,10 @@ Education
   * GPA: 3.91  
   * Key Modules: CAD, Design and Manufacturing, Embedded Systems, Control Theory, Motor Drives and Control  
 
-***
+
+
+
+
 
 Work Experience
 ====== 
@@ -32,7 +35,10 @@ Work Experience
   * Presented control system architecture and potential exception scenarios in interdisciplinary team meetings  
   * Coordinated with vendors to select compatible automation components  
 
-***
+
+
+
+
 
 Projects
 ====== 
@@ -58,7 +64,9 @@ Projects
   * Programmed autonomous drones to complete delivery tasks with path planning and obstacle avoidance  
   * Integrated flight control systems, data transmission, a robotic arm, and 3D-printed object storage  
 
-***
+
+
+
 
 Skills
 ====== 
