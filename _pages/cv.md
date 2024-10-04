@@ -18,7 +18,7 @@ Education
   * GPA: 3.91  
   * Key Modules: CAD, Design and Manufacturing, Embedded Systems, Control Theory, Motor Drives and Control  
 
-***
+---- 5px
 
 Work Experience
 ====== 
