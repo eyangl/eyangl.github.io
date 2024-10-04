@@ -18,17 +18,20 @@ Education
   * GPA: 3.91  
   * Key Modules: CAD, Design and Manufacturing, Embedded Systems, Control Theory, Motor Drives and Control  
 
+---
+
 Work Experience
 ====== 
 **AI Software Engineer (Intern)**, Shanghai Huawei Technologies <span style="float:right;">Summer 2024</span>  
   * Wrote over 12,000 lines of Go language test code for the AI management platform, achieving 80% statement coverage  
   * Managed multiple code merges into the master branch after successful pipeline checks  
   * Revised online help documentation to align with updates to platform operation procedures  
-
 **Automation Engineer (Intern)**, Zhejiang Guozi Robotics <span style="float:right;">Summer 2023</span>  
   * Designed and analyzed upper-level storage and lifting components for a logistical cargo carrier using SolidWorks and AutoCAD  
   * Presented control system architecture and potential exception scenarios in interdisciplinary team meetings  
   * Coordinated with vendors to select compatible automation components  
+
+---
 
 Projects
 ====== 
@@ -53,6 +56,8 @@ Projects
 **Intelligent Logistics Using Drones** <span style="float:right;">06/2022 - 07/2022</span>  
   * Programmed autonomous drones to complete delivery tasks with path planning and obstacle avoidance  
   * Integrated flight control systems, data transmission, a robotic arm, and 3D-printed object storage  
+
+---
 
 Skills
 ====== 
