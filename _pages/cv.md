@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education  
-======
+Education
+====== 
 **MEng in Electrical and Computer Engineering**, University of Illinois Urbana-Champaign <span style="float:right;">08/2023 - 12/2024</span>  
   * GPA: 4.0  
   * Key Modules: Computer Vision, Machine Learning, Artificial Intelligence, SQL, Communication Networks, Distributed Algorithms, Control Theory  
@@ -19,9 +18,8 @@ Education
   * GPA: 3.91  
   * Key Modules: CAD, Design and Manufacturing, Embedded Systems, Control Theory, Motor Drives and Control  
 
-
-Work Experience  
-======  
+Work Experience
+====== 
 **AI Software Engineer (Intern)**, Shanghai Huawei Technologies <span style="float:right;">Summer 2024</span>  
   * Wrote over 12,000 lines of Go language test code for the AI management platform, achieving 80% statement coverage  
   * Managed multiple code merges into the master branch after successful pipeline checks  
@@ -32,9 +30,8 @@ Work Experience
   * Presented control system architecture and potential exception scenarios in interdisciplinary team meetings  
   * Coordinated with vendors to select compatible automation components  
 
-
-Projects  
-======  
+Projects
+====== 
 **Robotic Visual Perception System for Metal Parts Grasping Application** <span style="float:right;">09/2023 - 06/2024</span>  
   * Proposed a pose estimation system using Neural Radiance Fields (NeRF) technology and template contrastive learning  
   * Extracted depth maps from reconstructed 3D scenes and analyzed poses using RGB-D information  
@@ -58,7 +55,7 @@ Projects
   * Integrated flight control systems, data transmission, a robotic arm, and 3D-printed object storage  
 
 Skills
-======
+====== 
 **Control Systems**:  
   * CAD, PCB Design, Pose Estimation, Pytorch, ROS, SolidWorks, SSH Server, Ubuntu
 
