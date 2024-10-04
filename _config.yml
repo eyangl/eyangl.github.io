@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yiyang Liu 刘逸洋"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yiyang Liu"
 description              : &description "personal description"
 url                      : https://eyangl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
